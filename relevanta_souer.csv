@@ -1,0 +1,62 @@
+DocumentName;Total_Words;Total_Amount_of_Words;freq;prod;Mentioned;Relevant(JA = 1 , NEJ = 0);Kommentar
+sou_2000_23-d3.txt;712;71290;0.009987376;7.111011362;1;1;
+sou_2000_52-d5.txt;509;88731;0.005736439;2.919847629;0;1;Energiproduktion, omställning mm
+sou_2000_90-d1.txt;626;31150;0.020096308;12.58028892;1;1;Elnätsföretag regler och tillsyn
+sou_2000_90-d2.txt;508;28340;0.017925194;9.105998589;1;1;Elnätsföretag
+sou_2001_73.txt;948;68605;0.013818235;13.09968661;1;1;Elnätsföretag regionsnättariffer
+sou_2001_77-d1.txt;2004;67547;0.029668231;59.45513494;1;1;
+sou_2001_77-d2.txt;1768;62136;0.028453714;50.30616712;1;1;handel med elcertifikat
+sou_2002_7.txt;879;46919;0.018734415;16.46755046;1;1;
+sou_2003_113.txt;2103;110109;0.019099256;40.16573577;1;1;
+sou_2003_115.txt;793;41329;0.019187495;15.2156839;1;1;
+sou_2003_38-d1.txt;905;74314;0.012178055;11.02114003;1;1;samma som den på rader ner om skatt på energi
+sou_2003_38-d3.txt;757;52707;0.014362419;10.87235092;1;1;Skatt på energi
+sou_2003_80-d1.txt;634;40266;0.015745294;9.982516267;1;1;En del i omställningen av energisystem
+sou_2003_80-d2.txt;366;36727;0.009965421;3.647343916;1;1;omställningen av energu system
+sou_2004_129-d1.txt;1313;66436;0.019763381;25.94931965;1;1;
+sou_2004_129-d2.txt;1064;54696;0.019452976;20.69796694;1;1;Handlar om elmarknaden men osäker vilken del den refererar till
+sou_2004_129-d3.txt;540;32938;0.016394438;8.852996539;1;1;el och naturgasmarknad
+sou_2004_129-d4.txt;1025;68590;0.014943869;15.3174661;1;1;Bilagor och rapport om elmarknad
+sou_2004_129-d5.txt;705;31891;0.02210655;15.58511806;1;1;
+sou_2005_33-d1.txt;1206;87147;0.013838686;16.68945575;1;1;kraft och fjärrvärme
+sou_2005_33-d2.txt;937;49992;0.018742999;17.56218995;1;1;
+sou_2007_36.txt;1670;144153;0.011584913;19.34680513;1;1;BIo energi vet inte dess koppling till vårt arbete
+sou_2007_60-d5.txt;229;16388;0.013973639;3.199963388;0;1;Står om klimatförändring
+sou_2007_99.txt;1228;109915;0.011172269;13.71954692;1;1;elnätstariffer
+sou_2008_110.txt;3165;207423;0.015258674;48.29370417;1;1;vägen till energieffektivare sverige
+sou_2008_13-d1.txt;2020;75171;0.026872065;54.28157135;1;1;anlutning till förnybar elproduktuion
+sou_2008_13-d2.txt;1867;66037;0.028272029;52.78387873;1;1;
+sou_2008_24.txt;958;143558;0.006673261;6.39298402;0;1;
+sou_2008_25-d1.txt;2405;125804;0.019117039;45.97647929;1;1;
+sou_2008_25-d2.txt;552;25557;0.021598779;11.92252612;1;1;Ett energieffektivare Sverige
+sou_2008_86.txt;1451;104867;0.013836574;20.0768688;1;1;Vindkraftsverk men det kommer ju att ha en påverkan på energimarknaden så denna inkluderas som relevant
+sou_2009_2.txt;1090;38746;0.028131936;30.66381046;1;1;nya nät för förnybar el
+sou_2009_42.txt;1528;129633;0.011787122;18.01072258;0;1;Pratar om vattens koppling till energi
+sou_2009_45.txt;768;96198;0.007983534;6.131354082;0;1;Ormråden av riksintresse och miljökonsekvensbeskrivningar
+sou_2009_48.txt;2462;123096;0.02000065;49.24160005;1;1;
+sou_2009_88.txt;615;122227;0.005031621;3.094447217;1;1;Kärnkraft
+sou_2010_30.txt;3226;253933;0.012704138;40.98355078;1;1;Tredje inre marknadspaketet för el oc naturgas
+sou_2011_44.txt;2320;135708;0.017095529;39.66162643;1;1;Fjärrvärme i konkurans
+sou_2013_46.txt;1548;78159;0.019805781;30.65934825;1;1;
+sou_2013_84-d1.txt;853;121026;0.007048072;6.012005685;1;1;Energianvändning och koldioxidutsläpp från arbetsmaskiner och trafik
+sou_2014_37.txt;606;32591;0.01859409;11.26801878;1;1;Svenska energimarknaderna
+sou_2014_84-d2.txt;751;30797;0.024385492;18.31350456;1;1;
+sou_2014_84-d3.txt;649;27291;0.023780734;15.43369609;1;1;
+sou_2014_84-d4.txt;277;13999;0.019787128;5.48103436;1;1;Riktigt bra??
+sou_2015_87.txt;1814;110259;0.016452172;29.84423947;1;1;Energiskatt på el
+sou_2016_31.txt;1196;103553;0.011549641;13.81337093;0;1;Fastighettaxering av anläggningar för el
+sou_2017_2.txt;3126;101843;0.030694304;95.95039423;1;1;
+sou_2017_83.txt;893;144458;0.006181728;5.520282712;0;1;Om avfallsförbränning och utsläpp av kväveoxider från energiproduktion borde beskatas
+sou_2017_99.txt;1131;105831;0.01068685;12.08682711;0;1;Effektivare energianvändning
+sou_2018_15.txt;1211;63194;0.019163212;23.20664937;0;1;Mindra aktörer i energilandskapet
+sou_2018_76.txt;2114;120035;0.01761153;37.23077436;1;1;
+sou_2019_30.txt;2706;115737;0.023380596;63.26789186;1;1;Moderna tillståndsprocesser för elnät
+sou_2019_63.txt;4404;194974;0.022587627;99.47590961;1;1;Mer biogas för ett hålbart sverige
+sou_2021_48-d2.txt;873;109001;0.008009101;6.991945028;0;1;
+sou_2021_53.txt;625;59287;0.01054194;6.588712534;0;1; Kommunerna fortsatt har en rätt att säga nej till vindkraft. 
+sou_2022_21.txt;2647;206704;0.012805751;33.89682348;1;1;Rätt för klimatet, handlar om elnät också
+sou_2023_18.txt;383;41610;0.009204518;3.525330449;1;1;vind
+sou_2023_18-d2.txt;1001;54675;0.018308185;18.32649291;1;1;Vind och elproduktion nämns!
+sou_2023_64.txt;1804;141954;0.012708342;22.92584922;1;1;
+sou_2024_89.txt;2243;160537;0.013971857;31.33887515;0;1;Vindkraft 
+sou_2025_7.txt;829;155033;0.005347249;4.432869131;0;1;Ny kärnkraft i sverige, handlar om tillståndsprövningarna. Dvs byggnaden av fler vilket har en direkt påverkan på elnätet
